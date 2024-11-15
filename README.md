@@ -43,5 +43,6 @@ To run the Flixio project locally, follow these steps:
 git clone https://github.com/your-username/flixio.git
 cd flixio
 npm install
-npm start
+npm run dev
+
 
