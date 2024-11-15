@@ -44,5 +44,3 @@ git clone https://github.com/your-username/flixio.git
 cd flixio
 npm install
 npm run dev
-
-
