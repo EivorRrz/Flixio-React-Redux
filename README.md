@@ -37,8 +37,11 @@ Check out the live demo: [Flixio Demo](https://flixio-o.netlify.app/)
 
 ## Installation
 
-Run Flixio on your machine:
+To run the Flixio project locally, follow these steps:
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/flixio.git
+```bash
+git clone https://github.com/your-username/flixio.git
+cd flixio
+npm install
+npm start
+
