@@ -11,6 +11,19 @@ Flixio is a personal project developed to showcase proficiency in modern web dev
 - **Search Functionality**: Allows users to search for their favorite movies and TV shows.
 - **Detailed Information**: Provides detailed information about each movie or TV show, including synopsis, cast, and ratings.
 
+## Screenshots
+
+Here are some screenshots of the Flixio project:
+
+- **Homepage**:
+  ![Homepage](Screenshot1.png)
+
+- **Movies Search**:
+  ![Movies Search](Screenshot2.png)
+
+- **Movie Details Page**:
+  ![Movie Details](Screenshot3.png)
+
 ## Usage
 
 To view the live demo of Flixio, visit [https://flixio-o.netlify.app/](https://flixio-o.netlify.app/).
@@ -28,22 +41,6 @@ To view the live demo of Flixio, visit [https://flixio-o.netlify.app/](https://f
 
 To run Flixio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/flixio.git`
-2. Navigate to the project directory: `cd flixio`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit `http://localhost:3000`
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Flixio, please follow these guidelines:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out at eivorftw234@gmail.com.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flixio.git
