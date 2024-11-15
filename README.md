@@ -18,10 +18,10 @@ Here are some screenshots of the Flixio project:
 - **Homepage**:
   ![Homepage](Screenshot1.png)
 
-- **Movies Search**:
+- **Movie Details Page**:
   ![Movies Search](Screenshot2.png)
 
-- **Movie Details Page**:
+- **Movies Search**:
   ![Movie Details](Screenshot3.png)
 
 ## Usage
